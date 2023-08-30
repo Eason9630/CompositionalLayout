@@ -57,6 +57,7 @@ class ViewController: UIViewController, UICollectionViewDataSource {
             count: 2
         )
         
+        
         // 創建三個項目的群組 Triplet Item
         let tripletItem = NSCollectionLayoutItem(
             layoutSize: NSCollectionLayoutSize(
